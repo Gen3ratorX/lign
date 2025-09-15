@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "56179857802",
+    "project_id": "lign-app",
+    "storage_bucket": "lign-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56179857802:android:e093a9b8e2b29235909073",
+        "android_client_info": {
+          "package_name": "com.example.lign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56179857802-2as0e71noq2cguh1e8nh71poid78uf8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lign",
+            "certificate_hash": "f1d886c440d109e26f0e9cb9d20d217e66caa952"
+          }
+        },
+        {
+          "client_id": "56179857802-gtht7ev1oslelprrgp43qhh3bvb9sufn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWnKBH_jvjNU1lLFBMcrG_-VnuTw9UkD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56179857802-gtht7ev1oslelprrgp43qhh3bvb9sufn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56179857802-e0580qm51kcsqgd2m3skikp7v28rc000.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lign"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
